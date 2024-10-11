@@ -1,4 +1,4 @@
-# test123
+# LAB6_202434839_조성재
 
 Version Control and Collaboration  
 Version control systems (VCS) manage changes to files over time. They allow multiple people to collaborate on projects, track changes, and restore previous versions of the code when necessary.
